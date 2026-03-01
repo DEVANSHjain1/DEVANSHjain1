@@ -125,9 +125,9 @@ Distributed payment system built with Java and Bazel — exploring high-throughp
 
 <div align="center">
 
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVANSHjain1&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=DEVANSHjain1&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVANSHjain1&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVANSHjain1&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
 
 </div>
 
